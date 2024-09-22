@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 I am a first-year doctoral student at the Chang'an University [School of Future Transportation](https://wljtxy.chd.edu.cn/). My research interests include urban rail transit, transportation geography, and smart cities.
+
 I am very fortunate to have received guidance from [Professor Sun Jian](https://js.chd.edu.cn/jiaotong/sj2/list.htm) of the Chang'an University [School of Future Transportation](https://wljtxy.chd.edu.cn/). I hope to move forward steadily and deepen my academic career step by step.
+
 [Email](2020900014@chd.edu.cn) 
 
 Education 
