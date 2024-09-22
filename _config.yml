@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:/Users/Nikaidou/Desktop/毕业照.png"
+  avatar           : "毕业照.png"
   name             : "Yulin Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Newcomers on the Road"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Chang'an University"
   uri              : # URL
   email            : "2020900014@chd.edu.cn" 
 
